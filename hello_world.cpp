@@ -2,7 +2,7 @@ class HelloWorld
 {  
     static void Main () 
     {     
-        System.Console.Write("Hello World!");  
+        System.Console.Write("Hello, world!");  
     }
-} 
+}
 
